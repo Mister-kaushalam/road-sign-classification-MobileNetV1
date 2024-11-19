@@ -1,6 +1,9 @@
 ﻿<H1>Road Sign Classification using MobileNetV1 </H1>
 
-- Author - Kaushal Bhavsar
+- Author: **Kaushal Bhavsar**
+- LinkedIn : https://www.linkedin.com/in/kb07/
+- Github: Mister-kaushalam
+- Email - Kaushalbhavsar0007@gmail.comkaushalam
 
 Model weights can be downloaded from here: [Link](https://drive.google.com/file/d/1T4Rlba1FVLHiGtIRTeYAhgykLZYsOjf9/view?usp=sharing)
 
